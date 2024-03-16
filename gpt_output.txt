@@ -1,0 +1,8 @@
+Running Jobs per User: {'adbb281': 2, 'acng903': 3, 'aczd082': 4, 'aczg500': 4, 'adcd693': 4, 'xbkx148': 15, 'sbgx537': 4, 'addp878': 2, 'sbrt712': 3, 'sbrs517': 2}
+Pending Jobs per User: {'acng903': 1, 'aczd082': 5, 'adbt150': 1, 'adcd693': 18, 'xbkx148': 2, 'sbgx537': 8, 'aczd097': 1, 'adgn599': 1}
+Nodes in use for running jobs per user: {'adbb281': 2, 'acng903': 3, 'aczd082': 4, 'aczg500': 4, 'adcd693': 4, 'xbkx148': 15, 'sbgx537': 4, 'addp878': 2, 'sbrt712': 3, 'sbrs517': 2}
+Nodes in use for pending jobs per user: {'acng903': 1, 'aczd082': 5, 'adbt150': 1, 'adcd693': 18, 'xbkx148': 2, 'sbgx537': 8, 'aczd097': 1, 'adgn599': 1}
+Total nodes in use per user: {'sbrs517': 2, 'sbgx537': 12, 'adcd693': 22, 'sbrt712': 3, 'adbt150': 1, 'aczg500': 4, 'aczd082': 9, 'aczd097': 1, 'addp878': 2, 'adgn599': 1, 'xbkx148': 17, 'acng903': 4, 'adbb281': 2}
+User with the most nodes for running jobs: xbkx148
+User with the most nodes for pending jobs: adcd693
+User with the most nodes overall: adcd693

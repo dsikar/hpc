@@ -1,0 +1,33 @@
+Running Jobs per User:
+xbkx148: 15 (Nodes: 30)
+adcd693: 4 (Nodes: 16)
+sbgx537: 4 (Nodes: 8)
+addp878: 2 (Nodes: 8)
+sbrs517: 2 (Nodes: 6)
+aczd082: 4 (Nodes: 4)
+aczg500: 4 (Nodes: 4)
+sbrt712: 3 (Nodes: 4)
+acng903: 3 (Nodes: 3)
+adbb281: 2 (Nodes: 2)
+
+Pending Jobs per User:
+adcd693: 18 (Nodes: 72)
+sbgx537: 8 (Nodes: 16)
+aczd082: 5 (Nodes: 5)
+xbkx148: 2 (Nodes: 4)
+aczd097: 1 (Nodes: 4)
+adgn599: 1 (Nodes: 2)
+acng903: 1 (Nodes: 1)
+adbt150: 1 (Nodes: 1)
+
+Users using the most nodes for Running Jobs:
+xbkx148: 30
+
+Users using the most nodes for Pending Jobs:
+adcd693: 72
+
+Users using the most nodes Overall:
+adcd693: 88
+
+Total Running Nodes: 85
+Total Pending Nodes: 105
